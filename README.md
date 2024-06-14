@@ -8,7 +8,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
