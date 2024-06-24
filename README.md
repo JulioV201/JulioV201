@@ -16,6 +16,6 @@
 [twitter]: https://x.com/JulioVi15690759
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/julio-villegas-b2485a89
+[linkedin]: https://www.linkedin.com/in/julio-villegas-b2485a89
 
 
