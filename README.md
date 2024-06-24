@@ -6,7 +6,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2> www.linkedin.com/in/julio-villegas-b2485a89
+<h2> 🤳 Connect with me:</h2> 
 
 
 
