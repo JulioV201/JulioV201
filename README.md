@@ -12,6 +12,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://x.com/JulioVi15690759
-[linkedin]: https://www.linkedin.com/in/julio-villegas-b2485a89
+[linkedin]: http://linkedin.com/in/julio-v-201jv
+
+
 
 
