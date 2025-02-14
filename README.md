@@ -5,7 +5,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/JulioV201/Azure-SOC)
  
 - <b>Vulnerability Management Projects</b>
-  - ** [Vulnerability Management Program Implementation] https://github.com/JulioV201/vulnerability-management-program/blob/main/README.md**
+  - **[Vulnerability Management Program Implementation](https://github.com/JulioV201/vulnerability-management-program/blob/main/README.md)**
 
 
 
