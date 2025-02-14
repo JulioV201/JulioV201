@@ -6,6 +6,9 @@
  
 - <b>Vulnerability Management Projects</b>
   - **[Vulnerability Management Program Implementation](https://github.com/JulioV201/vulnerability-management-program/blob/main/README.md)**
+ 
+- <b>Threat Huntin Scenaio TOR</b>
+  - **[Threat Hunting Scenario](https://github.com/JulioV201/threat-hunting-scenario-tor)**
 
 
 
