@@ -1,8 +1,12 @@
-<h1>Hi, I'm Julio! Passionate Cyber Security Analyst
+<h1>Hi, I'm Julio! Passionate in Cyber Security
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/JulioV201/Azure-SOC)
+ 
+- <b>Vulnerability Management Projects</b>
+  - ** [Vulnerability Management Program Implementation] https://github.com/JulioV201/vulnerability-management-program/blob/main/README.md**
+
 
 
 
